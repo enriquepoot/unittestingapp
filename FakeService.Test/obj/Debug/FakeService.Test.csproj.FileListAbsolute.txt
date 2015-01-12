@@ -1,0 +1,15 @@
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService.Test\bin\Debug\FakeService.Test.dll
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService.Test\bin\Debug\FakeService.Test.pdb
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService.Test\bin\Debug\DataAccess.dll
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService.Test\bin\Debug\Entities.dll
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService.Test\bin\Debug\FakeService.exe
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService.Test\bin\Debug\Moq.dll
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService.Test\bin\Debug\DataAccess.pdb
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService.Test\bin\Debug\Entities.pdb
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService.Test\bin\Debug\FakeService.pdb
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService.Test\bin\Debug\Moq.xml
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService.Test\obj\Debug\FakeService.Test.csprojResolveAssemblyReference.cache
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService.Test\obj\Debug\FakeService.Test.dll
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService.Test\obj\Debug\FakeService.Test.pdb

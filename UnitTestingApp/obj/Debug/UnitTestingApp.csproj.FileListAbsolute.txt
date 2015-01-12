@@ -1,0 +1,13 @@
+c:\users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\UnitTestingApp\bin\Debug\UnitTestingApp.exe.config
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\UnitTestingApp\bin\Debug\UnitTestingApp.exe
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\UnitTestingApp\bin\Debug\UnitTestingApp.pdb
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\UnitTestingApp\obj\Debug\UnitTestingApp.csprojResolveAssemblyReference.cache
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\UnitTestingApp\obj\Debug\MainWindow.baml
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\UnitTestingApp\obj\Debug\MainWindow.g.cs
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\UnitTestingApp\obj\Debug\App.g.cs
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\UnitTestingApp\obj\Debug\UnitTestingApp_MarkupCompile.cache
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\UnitTestingApp\obj\Debug\UnitTestingApp.g.resources
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\UnitTestingApp\obj\Debug\UnitTestingApp.Properties.Resources.resources
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\UnitTestingApp\obj\Debug\UnitTestingApp.csproj.GenerateResource.Cache
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\UnitTestingApp\obj\Debug\UnitTestingApp.exe
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\UnitTestingApp\obj\Debug\UnitTestingApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\DataAccess\bin\Debug\Entities.dll
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\DataAccess\bin\Debug\Entities.pdb
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\DataAccess\obj\Debug\DataAccess.pdb

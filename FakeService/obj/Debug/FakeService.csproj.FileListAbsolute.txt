@@ -1,0 +1,12 @@
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService\bin\Debug\FakeService.exe.config
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService\bin\Debug\FakeService.exe
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService\bin\Debug\FakeService.pdb
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService\bin\Debug\DataAccess.dll
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService\bin\Debug\Entities.dll
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService\bin\Debug\DataAccess.pdb
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService\bin\Debug\Entities.pdb
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService\obj\Debug\FakeService.csprojResolveAssemblyReference.cache
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService\obj\Debug\FakeService.exe
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService\obj\Debug\FakeService.pdb
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\FakeService\bin\Debug\Newtonsoft.Json.xml

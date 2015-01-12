@@ -1,0 +1,7 @@
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\Entities.Test\bin\Debug\Entities.Test.dll
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\Entities.Test\bin\Debug\Entities.Test.pdb
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\Entities.Test\bin\Debug\Entities.dll
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\Entities.Test\bin\Debug\Entities.pdb
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\Entities.Test\obj\Debug\Entities.Test.csprojResolveAssemblyReference.cache
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\Entities.Test\obj\Debug\Entities.Test.dll
+C:\Users\epoot\documents\visual studio 2012\Projects\UnitTestingApp\Entities.Test\obj\Debug\Entities.Test.pdb
